@@ -1,7 +1,7 @@
 {
   "name": "webpack-starter-kit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Boilerplate project for a web application requiring es6 / es7, webpack",
   "main": "src/main.js",
   "files": [
     "src"
